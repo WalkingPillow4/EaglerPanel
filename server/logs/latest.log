@@ -57,3 +57,12 @@
 [15:01:17] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/33, uuid='f5cb93f2-0780-4582-98bd-5bce375be7b1', l='ServerLevel[world]', x=-185.34, y=73.00, z=41.32, cpos=[-12, 2], tl=71861, v=false, rR=null]
 [15:01:18] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/63, uuid='eec2f91e-3100-4ec9-a7b5-d8dfc72bc867', l='ServerLevel[world]', x=-78.10, y=72.00, z=121.55, cpos=[-5, 7], tl=71770, v=false, rR=null]
 [15:01:18] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/64, uuid='eec2f91e-3100-4ec9-a7b5-d8dfc72bc867', l='ServerLevel[world]', x=-66.25, y=67.00, z=152.48, cpos=[-5, 9], tl=41771, v=false, rR=null]
+[15:32:17] [User Authenticator #1/INFO]: UUID of player WalkingPillow6 is 7fb862a4-6b24-334a-ab8a-a587687674c9
+[15:32:17] [Server thread/INFO]: WalkingPillow6 joined the game
+[15:32:17] [Server thread/INFO]: WalkingPillow6[/[0:0:0:0:0:0:0:1]:33722] logged in with entity id 193 at ([world]-101.5, 78.0, 23.5)
+[15:32:17] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[15:32:17] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[15:32:17] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[15:32:17] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[15:32:29] [Server thread/INFO]: WalkingPillow6 lost connection: Disconnected
+[15:32:29] [Server thread/INFO]: WalkingPillow6 left the game
