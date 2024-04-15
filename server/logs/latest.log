@@ -1,391 +1,60 @@
-[19:33:38] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19:33:38] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[19:33:39] [Worker-Main-1/INFO]: Loaded 7 recipes
-[19:33:40] [Server thread/INFO]: Starting minecraft server version 1.17.1
-[19:33:40] [Server thread/INFO]: Loading properties
-[19:33:40] [Server thread/INFO]: This server is running Purpur version git-Purpur-1428 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: 9beb23b on ver/1.17.1)
-[19:33:40] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[19:33:40] [Server thread/INFO]: Using 4 threads for Netty based IO
-[19:33:41] [Server thread/INFO]: Default game type: SURVIVAL
-[19:33:41] [Server thread/INFO]: Generating keypair
-[19:33:41] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:33:41] [Server thread/INFO]: Using epoll channel type
-[19:33:41] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[19:33:41] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[19:33:42] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.9.3
-[19:33:42] [Server thread/INFO]: [ViaVersion] ViaVersion 4.9.3 is now loaded. Registering protocol transformers and injecting...
-[19:33:42] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[19:33:42] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[19:33:42] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[19:33:42] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[19:33:43] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v4.9.2
-[19:33:43] [Server thread/INFO]: [ViaRewind] Loading ViaRewind v3.0.6
-[19:33:43] [Server thread/INFO]: [ViaRewind-Legacy-Support] Loading ViaRewind-Legacy-Support v1.4.2
-[19:33:43] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[19:33:43] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v3.0.6
-[19:33:43] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:33:43] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:33:43] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord or Velocity, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
-[19:33:43] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
-[19:33:43] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:33:43] [Server thread/INFO]: Preparing level "world"
-[19:33:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:33:43] [Server thread/INFO]: Time elapsed: 333 ms
-[19:33:43] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[19:33:44] [Server thread/INFO]: Time elapsed: 215 ms
-[19:33:44] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[19:33:44] [Server thread/INFO]: Time elapsed: 390 ms
-[19:33:44] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.9.3
-[19:33:44] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.17.1 (756)
-[19:33:44] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.9.2
-[19:33:44] [Server thread/INFO]: [ViaRewind-Legacy-Support] Enabling ViaRewind-Legacy-Support v1.4.2
-[19:33:45] [Server thread/INFO]: Running delayed init tasks
-[19:33:45] [Craft Scheduler Thread - 3 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
-[19:33:45] [Server thread/INFO]: Done (4.288s)! For help, type "help"
-[19:33:45] [Server thread/INFO]: Timings Reset
-[19:33:46] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/38, uuid='1bf2340f-213b-4756-947d-49f7146c44e0', l='ServerLevel[world]', x=-200.91, y=72.00, z=16.47, cpos=[-13, 1], tl=329655, v=false, rR=null]
-[19:33:47] [Server thread/WARN]: UUID of added entity already exists: EntityLlama['Llama'/95, uuid='94fd5bb8-332c-429a-876e-78a0eb1eb2c1', l='ServerLevel[world]', x=-120.56, y=91.00, z=95.59, cpos=[-8, 5], tl=71680, v=false, rR=null]
-[19:33:47] [Server thread/WARN]: UUID of added entity already exists: EntityChicken['Chicken'/119, uuid='7f369512-2507-4106-9c16-842abdcc7c0e', l='ServerLevel[world]', x=-77.66, y=74.00, z=38.83, cpos=[-5, 2], tl=41653, v=false, rR=null]
-[19:33:48] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/146, uuid='4aa7e47a-db5c-4d8b-b30b-b599b64992b8', l='ServerLevel[world]', x=-25.15, y=77.00, z=9.85, cpos=[-2, 0], tl=70366, v=false, rR=null]
-[19:33:48] [Server thread/WARN]: UUID of added entity already exists: EntityChicken['Chicken'/163, uuid='8a29c122-55af-4d2e-95d5-a6923c812eb3', l='ServerLevel[world]', x=12.11, y=78.00, z=35.88, cpos=[0, 2], tl=41439, v=false, rR=null]
-[19:33:48] [Server thread/WARN]: UUID of added entity already exists: EntityChicken['Chicken'/166, uuid='8ced09fe-401b-427c-9d77-0fa599be22a3', l='ServerLevel[world]', x=10.88, y=75.00, z=66.83, cpos=[0, 4], tl=10368, v=false, rR=null]
-[19:33:49] [Server thread/WARN]: UUID of added entity already exists: EntityChicken['Chicken'/210, uuid='58afa291-f0a4-4618-847c-fc4f6282542e', l='ServerLevel[world]', x=-270.00, y=66.00, z=-74.00, cpos=[-17, -5], tl=751, v=false, rR=null]
-[19:33:49] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/211, uuid='f5cb93f2-0780-4582-98bd-5bce375be7b1', l='ServerLevel[world]', x=-259.82, y=72.00, z=-4.82, cpos=[-17, -1], tl=110756, v=false, rR=null]
-[19:33:49] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/213, uuid='c65860a2-6faa-43a5-91d0-4dd26ac00413', l='ServerLevel[world]', x=-264.81, y=82.00, z=36.50, cpos=[-17, 2], tl=12373, v=false, rR=null]
-[19:33:49] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/214, uuid='c65860a2-6faa-43a5-91d0-4dd26ac00413', l='ServerLevel[world]', x=-270.19, y=82.00, z=50.77, cpos=[-17, 3], tl=565, v=false, rR=null]
-[19:36:47] [User Authenticator #1/INFO]: UUID of player WalkingPillow6 is 7fb862a4-6b24-334a-ab8a-a587687674c9
-[19:36:47] [Server thread/INFO]: WalkingPillow6 joined the game
-[19:36:47] [Server thread/INFO]: WalkingPillow6[/[0:0:0:0:0:0:0:1]:37466] logged in with entity id 253 at ([world]-101.5, 78.0, 23.5)
-[19:36:48] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
-[19:36:48] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
-[19:36:48] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
-[19:36:48] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
-[19:36:50] [Server thread/WARN]: UUID of added entity already exists: EntityPig['Pig'/269, uuid='3ee85776-754a-4d23-be59-810d06c28d77', l='ServerLevel[world]', x=-288.02, y=71.00, z=62.09, cpos=[-19, 3], tl=8196, v=false, rR=null]
-[19:36:50] [Server thread/WARN]: UUID of added entity already exists: EntityWolf['Wolf'/276, uuid='0aa070ef-9d07-47b8-a34b-f3229d2741b6', l='ServerLevel[world]', x=-288.05, y=74.00, z=110.09, cpos=[-19, 6], tl=22232, v=false, rR=null]
-[19:36:51] [Server thread/WARN]: UUID of added entity already exists: EntityRabbit['Rabbit'/278, uuid='17073872-3f15-445a-8511-03759076a4ea', l='ServerLevel[world]', x=-288.01, y=72.32, z=-125.96, cpos=[-19, -8], tl=15648, v=false, rR=null]
-[19:36:51] [Server thread/WARN]: UUID of added entity already exists: EntityRabbit['Rabbit'/281, uuid='894b97aa-c853-46aa-91ac-debe8299d670', l='ServerLevel[world]', x=-288.03, y=74.00, z=-144.13, cpos=[-19, -10], tl=8258, v=false, rR=null]
-[19:38:08] [Server thread/INFO]: WalkingPillow6 has made the advancement [Stone Age]
-[19:39:45] [Server thread/INFO]: WalkingPillow6 has made the advancement [Getting an Upgrade]
-[19:40:15] [User Authenticator #2/INFO]: UUID of player WalkingPillow4_ is 55162d9e-a0ca-359f-bae1-98fdc2d95664
-[19:40:15] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
-[19:40:15] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
-[19:40:15] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
-[19:40:15] [Server thread/INFO]: WalkingPillow4_ joined the game
-[19:40:15] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
-[19:40:15] [Server thread/INFO]: WalkingPillow4_[/[0:0:0:0:0:0:0:1]:33824] logged in with entity id 640 at ([world]-118.5, 97.0, 15.5)
-[19:40:20] [Async Chat Thread - #0/INFO]: <WalkingPillow6> who are you
-[19:40:22] [Async Chat Thread - #0/INFO]: <WalkingPillow6> -_0
-[19:40:24] [Async Chat Thread - #0/INFO]: <WalkingPillow4_> I am
-[19:40:25] [Async Chat Thread - #0/INFO]: <WalkingPillow6> Aryan?
-[19:40:28] [Async Chat Thread - #0/INFO]: <WalkingPillow4_> skibidigyatt44
-[19:40:28] [Async Chat Thread - #0/INFO]: <WalkingPillow6> -_0
-[19:40:31] [Async Chat Thread - #0/INFO]: <WalkingPillow4_> btw I got my server working
-[19:40:33] [Async Chat Thread - #0/INFO]: <WalkingPillow6> so you're Aryan
-[19:40:34] [Server thread/INFO]: WalkingPillow4_ issued server command: /ops
-[19:40:35] [Async Chat Thread - #0/INFO]: <WalkingPillow6> nuh uh
-[19:40:40] [Async Chat Thread - #0/INFO]: <WalkingPillow6> it's going down soon
-[19:40:45] [Server thread/INFO]: WalkingPillow4_ was slain by WalkingPillow6
-[19:40:48] [Async Chat Thread - #0/INFO]: <WalkingPillow6> lol
-[19:40:50] [Async Chat Thread - #0/INFO]: <WalkingPillow4_> is that a threat kid
-[19:40:58] [Server thread/INFO]: WalkingPillow4_ lost connection: Kicked by an operator
-[19:40:58] [Server thread/INFO]: WalkingPillow4_ left the game
-[19:40:58] [Server thread/INFO]: Kicked WalkingPillow4_: Kicked by an operator
-[19:43:11] [User Authenticator #3/INFO]: UUID of player WalkingPillow4_ is 55162d9e-a0ca-359f-bae1-98fdc2d95664
-[19:43:11] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
-[19:43:11] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
-[19:43:11] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
-[19:43:11] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
-[19:43:11] [Server thread/INFO]: WalkingPillow4_ joined the game
-[19:43:11] [Server thread/INFO]: WalkingPillow4_[/[0:0:0:0:0:0:0:1]:36362] logged in with entity id 972 at ([world]-127.81171586538511, 93.10680683986497, 62.249308666686666)
-[19:43:14] [Async Chat Thread - #1/INFO]: <WalkingPillow4_> dont
-[19:43:16] [Async Chat Thread - #1/INFO]: <WalkingPillow4_> delete my server
-[19:43:27] [Async Chat Thread - #1/INFO]: <WalkingPillow4_> if they see u with your repositories we both go down
-[19:43:41] [Async Chat Thread - #1/INFO]: <WalkingPillow6> ok
-[19:43:55] [Async Chat Thread - #1/INFO]: <WalkingPillow4_> so we chill
-[19:43:58] [Async Chat Thread - #1/INFO]: <WalkingPillow4_> alo why are you 6
-[19:43:58] [Async Chat Thread - #1/INFO]: <WalkingPillow6> ye i guess
-[19:44:04] [Async Chat Thread - #1/INFO]: <WalkingPillow6> no wonder why it lagging so much
-[19:44:06] [Server thread/INFO]: WalkingPillow4_ issued server command: /give
-[19:44:09] [Async Chat Thread - #1/INFO]: <WalkingPillow4_> giem a sec
-[19:44:10] [Async Chat Thread - #1/INFO]: <WalkingPillow6> you joined and i didn't notice XD
-[19:44:12] [Server thread/INFO]: WalkingPillow4_ lost connection: Disconnected
-[19:44:12] [Server thread/INFO]: WalkingPillow4_ left the game
-[19:44:25] [User Authenticator #4/INFO]: UUID of player Neonic is febdbb10-b91d-3d00-9817-1ff489b34cde
-[19:44:25] [Server thread/INFO]: Neonic joined the game
-[19:44:25] [Server thread/INFO]: Neonic[/[0:0:0:0:0:0:0:1]:33478] logged in with entity id 1136 at ([world]-88.0944595040056, 63.0, 27.414316617964005)
-[19:44:25] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
-[19:44:25] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
-[19:44:25] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
-[19:44:25] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
-[19:44:27] [Server thread/INFO]: Neonic issued server command: /give
-[19:44:29] [Async Chat Thread - #1/INFO]: <Neonic> wah
-[19:44:35] [Server thread/INFO]: Neonic issued server command: /tp
-[19:44:36] [Server thread/INFO]: Neonic issued server command: /op
-[19:44:41] [Async Chat Thread - #1/INFO]: <Neonic> did u deop me
-[19:44:42] [Async Chat Thread - #1/INFO]: <Neonic> heh
-[19:45:00] [Async Chat Thread - #1/INFO]: <WalkingPillow6> no
-[19:45:07] [Server thread/INFO]: Neonic issued server command: /gamemode creative
-[19:45:07] [Async Chat Thread - #1/INFO]: <WalkingPillow6> no accounts get op
-[19:45:10] [Async Chat Thread - #1/INFO]: <Neonic> why
-[19:45:20] [Async Chat Thread - #1/INFO]: <WalkingPillow6> bc you can access any username
-[19:45:24] [Async Chat Thread - #1/INFO]: <Neonic> on my server u cant
-[19:45:25] [Async Chat Thread - #1/INFO]: <WalkingPillow6> and so can everyone else
-[19:45:28] [Async Chat Thread - #1/INFO]: <WalkingPillow6> ok? idc
-[19:45:29] [Async Chat Thread - #1/INFO]: <Neonic> xtectonic is opped on my server
-[19:45:32] [Async Chat Thread - #1/INFO]: <Neonic> :)))
-[19:45:35] [Async Chat Thread - #1/INFO]: <WalkingPillow6> i still don't care
-[19:45:40] [Async Chat Thread - #1/INFO]: <Neonic> ok
-[19:45:44] [Async Chat Thread - #1/INFO]: <WalkingPillow6> play mc here or don't
-[19:45:58] [Server thread/INFO]: Neonic was slain by WalkingPillow6
-[19:46:21] [Async Chat Thread - #1/INFO]: <Neonic> gtg
-[19:46:23] [Async Chat Thread - #1/INFO]: <WalkingPillow6> stop
-[19:46:23] [Server thread/INFO]: Neonic lost connection: Disconnected
-[19:46:23] [Server thread/INFO]: Neonic left the game
-[19:46:34] [Server thread/INFO]: WalkingPillow6 lost connection: Disconnected
-[19:46:34] [Server thread/INFO]: WalkingPillow6 left the game
-[19:47:51] [User Authenticator #5/INFO]: UUID of player Neonic is febdbb10-b91d-3d00-9817-1ff489b34cde
-[19:47:51] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
-[19:47:51] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
-[19:47:51] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
-[19:47:51] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
-[19:47:51] [Server thread/INFO]: Neonic joined the game
-[19:47:51] [Server thread/INFO]: Neonic[/[0:0:0:0:0:0:0:1]:60306] logged in with entity id 1387 at ([world]-105.69999998807907, 81.0, 26.79878466399423)
-[19:47:53] [Async Chat Thread - #2/INFO]: <Neonic> nvm
-[19:47:56] [Async Chat Thread - #2/INFO]: <Neonic> why does my motd not work
-[19:48:03] [Async Chat Thread - #2/INFO]: <Neonic> it just says Eaglerx server :C
-[19:48:13] [Server thread/INFO]: Neonic lost connection: Disconnected
-[19:48:13] [Server thread/INFO]: Neonic left the game
-[19:50:57] [User Authenticator #6/INFO]: UUID of player WalkingPillow6 is 7fb862a4-6b24-334a-ab8a-a587687674c9
-[19:50:57] [Server thread/INFO]: WalkingPillow6 joined the game
-[19:50:57] [Server thread/INFO]: WalkingPillow6[/[0:0:0:0:0:0:0:1]:38228] logged in with entity id 1471 at ([world]-107.69999998807907, 83.0, 26.963614929894813)
-[19:50:57] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
-[19:50:57] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
-[19:50:57] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
-[19:50:57] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
-[19:51:09] [Server thread/INFO]: Gave 8 [Golden Carrot] to WalkingPillow6
-[19:55:33] [User Authenticator #7/INFO]: UUID of player Neonic is febdbb10-b91d-3d00-9817-1ff489b34cde
-[19:55:33] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
-[19:55:33] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
-[19:55:33] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
-[19:55:33] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
-[19:55:34] [Server thread/INFO]: Neonic joined the game
-[19:55:34] [Server thread/INFO]: Neonic[/[0:0:0:0:0:0:0:1]:38798] logged in with entity id 2048 at ([world]-110.9819343274104, 84.0, 15.866146810269553)
-[19:55:39] [Async Chat Thread - #3/INFO]: <WalkingPillow6> yo
-[19:55:40] [Server thread/INFO]: Neonic issued server command: /op
-[19:55:41] [Async Chat Thread - #3/INFO]: <Neonic> hi
-[19:55:46] [Async Chat Thread - #3/INFO]: <Neonic> resent doesnt work
-[19:55:48] [Async Chat Thread - #3/INFO]: <Neonic> with my server
-[19:55:49] [Async Chat Thread - #3/INFO]: <WalkingPillow6> lol
-[19:55:51] [Async Chat Thread - #3/INFO]: <Neonic> but with yours it works
-[19:55:53] [Async Chat Thread - #3/INFO]: <WalkingPillow6> hehe
-[19:55:56] [Async Chat Thread - #3/INFO]: <Neonic> can u help pls
-[19:55:59] [Async Chat Thread - #3/INFO]: <WalkingPillow6> idk how
-[19:56:07] [Async Chat Thread - #3/INFO]: <WalkingPillow6> i guess i'm just better?
-[19:56:12] [Async Chat Thread - #3/INFO]: <WalkingPillow6> i really don't know how
-[19:56:17] [Async Chat Thread - #3/INFO]: <WalkingPillow6> i can try to help, if
-[19:56:18] [Async Chat Thread - #3/INFO]: <Neonic> :/
-[19:56:27] [Async Chat Thread - #3/INFO]: <Neonic> it only works with the EaglercraftX 1.8
-[19:56:29] [Async Chat Thread - #3/INFO]: <WalkingPillow6> you tell me how to password protect accounts on the servers
-[19:56:34] [Async Chat Thread - #3/INFO]: <WalkingPillow6> and i can try to help
-[19:56:38] [Async Chat Thread - #3/INFO]: <Neonic> U just need to set online-mode to true
-[19:56:42] [Async Chat Thread - #3/INFO]: <WalkingPillow6> i did that tho
-[19:56:49] [Async Chat Thread - #3/INFO]: <WalkingPillow6> and it made it so nobody could join
-[19:57:03] [Async Chat Thread - #3/INFO]: <Neonic> auth plugin
-[19:57:04] [Server thread/INFO]: Neonic was shot by Skeleton
-[19:57:06] [Async Chat Thread - #3/INFO]: <WalkingPillow6> bc "Connection refused! The server is in online mode!"
-[19:57:12] [Server thread/INFO]: Neonic issued server command: /me ate a sibid
-[19:57:12] [Server thread/INFO]: * Neonic ate a sibid
-[19:57:16] [Server thread/INFO]: Neonic issued server command: /me ate a skibidi.
-[19:57:16] [Server thread/INFO]: * Neonic ate a skibidi.
-[19:57:16] [Async Chat Thread - #3/INFO]: <WalkingPillow6> lol wtf
-[19:57:19] [Async Chat Thread - #3/INFO]: <WalkingPillow6> how
-[19:57:22] [Async Chat Thread - #3/INFO]: <WalkingPillow6> do ppl do that
-[19:57:25] [Server thread/INFO]: Neonic issued server command: /me has been opped.
-[19:57:25] [Server thread/INFO]: * Neonic has been opped.
-[19:57:26] [Async Chat Thread - #3/INFO]: <Neonic> EZ
-[19:57:29] [Async Chat Thread - #3/INFO]: <WalkingPillow6> nuh uh
-[19:57:29] [Async Chat Thread - #3/INFO]: <Neonic> banned (real)
-[19:57:34] [Async Chat Thread - #3/INFO]: <Neonic> &4&lshut up
-[19:57:38] [Async Chat Thread - #3/INFO]: <Neonic> &
-[19:57:43] [Async Chat Thread - #3/INFO]: <Neonic> huh
-[19:57:45] [Server thread/INFO]: WalkingPillow6 issued server command: /me is mining water
-[19:57:45] [Server thread/INFO]: * WalkingPillow6 is mining water
-[19:57:50] [Async Chat Thread - #3/INFO]: <WalkingPillow6> i checked the console
-[19:57:57] [Async Chat Thread - #3/INFO]: <WalkingPillow6> and found out what commands you were using
-[19:57:58] [Async Chat Thread - #3/INFO]: <WalkingPillow6> lol
-[19:58:00] [Async Chat Thread - #3/INFO]: <Neonic> guy at
-[19:58:04] [Server thread/INFO]: Neonic issued server command: /ifarttedonaguy
-[19:58:06] [Async Chat Thread - #3/INFO]: <Neonic> check console
-[19:58:08] [Server thread/INFO]: WalkingPillow6 issued server command: /me is breathing air
-[19:58:08] [Server thread/INFO]: * WalkingPillow6 is breathing air
-[19:58:08] [Server thread/INFO]: Neonic issued server command: /ifarttedonaguy
-[19:58:09] [Server thread/INFO]: Neonic issued server command: /ifarttedonaguy
-[19:58:14] [Server thread/INFO]: Neonic issued server command: /fuckedallama
-[19:58:15] [Server thread/INFO]: Neonic issued server command: /fuckedallama
-[19:58:16] [Server thread/INFO]: Neonic issued server command: /fuckedallama
-[19:58:17] [Server thread/INFO]: Neonic issued server command: /fuckedallama
-[19:58:17] [Async Chat Thread - #3/INFO]: <WalkingPillow6> -_0
-[19:58:17] [Server thread/INFO]: Neonic issued server command: /fuckedallama
-[19:58:20] [Server thread/INFO]: Neonic issued server command: /help
-[19:58:21] [Async Chat Thread - #3/INFO]: <WalkingPillow6> btw
-[19:58:23] [Server thread/INFO]: Neonic issued server command: /pl
-[19:58:27] [Async Chat Thread - #3/INFO]: <WalkingPillow6> in exchange for food
-[19:58:33] [Async Chat Thread - #3/INFO]: <WalkingPillow6> i need to test something on you
-[19:58:36] [Async Chat Thread - #3/INFO]: <Neonic> can u help now
-[19:58:37] [Async Chat Thread - #3/INFO]: <Neonic> pls
-[19:58:41] [Async Chat Thread - #3/INFO]: <WalkingPillow6> that requires 1x stone axe and 1x Neonic
-[19:58:51] [Async Chat Thread - #3/INFO]: <WalkingPillow6> ye what
-[19:58:55] [Async Chat Thread - #3/INFO]: <WalkingPillow6> help with what
-[19:58:55] [Async Chat Thread - #3/INFO]: <Neonic> making the server
-[19:58:57] [Async Chat Thread - #3/INFO]: <WalkingPillow6> oh
-[19:59:00] [Async Chat Thread - #3/INFO]: <WalkingPillow6> uh
-[19:59:00] [Async Chat Thread - #3/INFO]: <Neonic> bro whats this
-[19:59:01] [Async Chat Thread - #3/INFO]: <Neonic> gras
-[19:59:04] [Async Chat Thread - #3/INFO]: <Neonic> grass guy
-[19:59:06] [Async Chat Thread - #3/INFO]: <WalkingPillow6> we need to be in person to help
-[19:59:10] [Server thread/INFO]: Neonic was blown up by Creeper
-[19:59:10] [Async Chat Thread - #3/INFO]: <Neonic> hi pls glas
-[19:59:13] [Server thread/INFO]: WalkingPillow6 issued server command: /me is mining water
-[19:59:13] [Server thread/INFO]: * WalkingPillow6 is mining water
-[19:59:15] [Server thread/INFO]: Neonic issued server command: /register
-[19:59:28] [Async Chat Thread - #3/INFO]: <WalkingPillow6> wya
-[19:59:35] [Async Chat Thread - #3/INFO]: <WalkingPillow6> oh
-[19:59:36] [Async Chat Thread - #3/INFO]: <WalkingPillow6> ooh
-[19:59:43] [Async Chat Thread - #3/INFO]: <WalkingPillow6> turning on the radar hack helps me
-[20:00:04] [Async Chat Thread - #3/INFO]: <Neonic> um
-[20:00:05] [Async Chat Thread - #3/INFO]: <Neonic> what the sigma
-[20:00:32] [Async Chat Thread - #3/INFO]: <WalkingPillow6> lag spike
-[20:00:46] [Server thread/INFO]: Neonic was shot by Skeleton
-[20:00:49] [Server thread/INFO]: WalkingPillow6 has made the advancement [Monster Hunter]
-[20:01:07] [Server thread/INFO]: WalkingPillow6 fell from a high place
-[20:01:13] [Async Chat Thread - #3/INFO]: <WalkingPillow6> whoops
-[20:01:34] [Async Chat Thread - #3/INFO]: <Neonic> i fix
-[20:01:35] [Server thread/INFO]: Neonic was shot by Skeleton
-[20:01:41] [Server thread/INFO]: Neonic issued server command: /me hates nger
-[20:01:41] [Server thread/INFO]: * Neonic hates nger
-[20:01:42] [Server thread/INFO]: Neonic lost connection: Disconnected
-[20:01:42] [Server thread/INFO]: Neonic left the game
-[20:02:37] [User Authenticator #8/INFO]: UUID of player Neonic is febdbb10-b91d-3d00-9817-1ff489b34cde
-[20:02:37] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
-[20:02:37] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
-[20:02:37] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
-[20:02:37] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
-[20:02:37] [Server thread/INFO]: Neonic joined the game
-[20:02:37] [Server thread/INFO]: Neonic[/[0:0:0:0:0:0:0:1]:35064] logged in with entity id 3056 at ([world]-108.5, 79.0, 8.5)
-[20:02:39] [Async Chat Thread - #4/INFO]: <Neonic> I FIXED IT
-[20:02:43] [Async Chat Thread - #4/INFO]: <WalkingPillow6> how
-[20:02:44] [Async Chat Thread - #4/INFO]: <WalkingPillow6> lol
-[20:02:46] [Async Chat Thread - #4/INFO]: <Neonic> but how do i make it not "An eaglercrackx server"
-[20:02:50] [Async Chat Thread - #4/INFO]: <WalkingPillow6> hehe
-[20:02:52] [Async Chat Thread - #4/INFO]: <WalkingPillow6> :)
-[20:02:58] [Async Chat Thread - #4/INFO]: <WalkingPillow6> good luck
-[20:03:00] [Async Chat Thread - #4/INFO]: <Neonic> you have the "cheats are allowed and you can rape" motd
-[20:03:01] [Async Chat Thread - #4/INFO]: <Neonic> bro
-[20:03:03] [Async Chat Thread - #4/INFO]: <Neonic> i helped u with auth
-[20:03:07] [Async Chat Thread - #4/INFO]: <WalkingPillow6> with what?
-[20:03:10] [Async Chat Thread - #4/INFO]: <WalkingPillow6> wdym
-[20:03:12] [Async Chat Thread - #4/INFO]: <Neonic> goober
-[20:03:22] [Async Chat Thread - #4/INFO]: <WalkingPillow6> what did you help me with
-[20:03:26] [Async Chat Thread - #4/INFO]: <WalkingPillow6> i'm confused
-[20:03:27] [Async Chat Thread - #4/INFO]: <Neonic> authenticatin
-[20:03:29] [Async Chat Thread - #4/INFO]: <WalkingPillow6> oh
-[20:03:33] [Async Chat Thread - #4/INFO]: <WalkingPillow6> i already knew that
-[20:03:35] [Async Chat Thread - #4/INFO]: <Neonic> kid
-[20:03:37] [Async Chat Thread - #4/INFO]: <WalkingPillow6> it didn't work
-[20:03:41] [Async Chat Thread - #4/INFO]: <WalkingPillow6> btw
-[20:03:44] [Async Chat Thread - #4/INFO]: <Neonic> bucky
-[20:03:44] [Async Chat Thread - #4/INFO]: <WalkingPillow6> i need to check
-[20:03:49] [Async Chat Thread - #4/INFO]: <WalkingPillow6> how much dmg does this do
-[20:03:53] [Async Chat Thread - #4/INFO]: <Neonic> no stop
-[20:03:56] [Async Chat Thread - #4/INFO]: <WalkingPillow6> lol
-[20:04:03] [Async Chat Thread - #4/INFO]: <WalkingPillow6> here's some food
-[20:04:37] [Server thread/INFO]: Neonic was slain by WalkingPillow6
-[20:04:42] [Async Chat Thread - #4/INFO]: <Neonic> nice resistance 255
-[20:04:43] [Async Chat Thread - #4/INFO]: <Neonic> retard
-[20:04:46] [Async Chat Thread - #4/INFO]: <WalkingPillow6> 1 heart
-[20:04:49] [Async Chat Thread - #4/INFO]: <WalkingPillow6> lol
-[20:04:53] [Async Chat Thread - #4/INFO]: <WalkingPillow6> imagine spam clicking
-[20:04:53] [Async Chat Thread - #4/INFO]: <Neonic> cheater
-[20:04:57] [Async Chat Thread - #4/INFO]: <WalkingPillow6> on 1.17
-[20:04:58] [Async Chat Thread - #4/INFO]: <WalkingPillow6> lol
-[20:04:59] [Async Chat Thread - #4/INFO]: <Neonic> I literally have no mouse
-[20:05:00] [Async Chat Thread - #4/INFO]: <Neonic> bRO
-[20:05:02] [Async Chat Thread - #4/INFO]: <Neonic> WTF
-[20:05:06] [Async Chat Thread - #4/INFO]: <WalkingPillow6> bro doesn't know what attack cooldowns are
-[20:05:08] [Async Chat Thread - #4/INFO]: <WalkingPillow6> XD
-[20:05:10] [Async Chat Thread - #4/INFO]: <Neonic> stfu
-[20:05:21] [Server thread/INFO]: Neonic was slain by WalkingPillow6
-[20:05:26] [Async Chat Thread - #4/INFO]: <Neonic> dumbass chink
-[20:05:26] [Async Chat Thread - #4/INFO]: <WalkingPillow6> hehe
-[20:05:27] [Async Chat Thread - #4/INFO]: <Neonic> kys
-[20:05:29] [Async Chat Thread - #4/INFO]: <Neonic> nigger
-[20:05:30] [Server thread/INFO]: Neonic lost connection: Disconnected
-[20:05:30] [Server thread/INFO]: Neonic left the game
-[20:05:43] [Server thread/INFO]: Banned Neonic: Banned by an operator.
-[20:06:24] [Server thread/INFO]: Unbanned Neonic
-[20:06:28] [Server thread/INFO]: Unknown command. Type "/help" for help.
-[20:07:03] [Server thread/INFO]: WalkingPillow6 lost connection: Disconnected
-[20:07:03] [Server thread/INFO]: WalkingPillow6 left the game
-[20:10:22] [User Authenticator #9/INFO]: UUID of player Neonic is febdbb10-b91d-3d00-9817-1ff489b34cde
-[20:10:22] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
-[20:10:22] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
-[20:10:22] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
-[20:10:22] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
-[20:10:22] [Server thread/INFO]: Neonic joined the game
-[20:10:22] [Server thread/INFO]: Neonic[/[0:0:0:0:0:0:0:1]:57380] logged in with entity id 3597 at ([world]-106.5, 80.0, 14.820897396275125)
-[20:10:29] [Server thread/INFO]: Neonic lost connection: Disconnected
-[20:10:29] [Server thread/INFO]: Neonic left the game
-[20:10:45] [User Authenticator #9/INFO]: UUID of player WalkingPillow6 is 7fb862a4-6b24-334a-ab8a-a587687674c9
-[20:10:45] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
-[20:10:45] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
-[20:10:45] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
-[20:10:45] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
-[20:10:45] [Server thread/INFO]: WalkingPillow6 joined the game
-[20:10:45] [Server thread/INFO]: WalkingPillow6[/[0:0:0:0:0:0:0:1]:33398] logged in with entity id 3682 at ([world]-92.32423628548143, 66.0, 73.94717778915337)
-[20:11:18] [Server thread/INFO]: WalkingPillow6 lost connection: Disconnected
-[20:11:18] [Server thread/INFO]: WalkingPillow6 left the game
-[20:14:44] [User Authenticator #10/INFO]: UUID of player WalkingPillow6 is 7fb862a4-6b24-334a-ab8a-a587687674c9
-[20:14:44] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
-[20:14:44] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
-[20:14:44] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
-[20:14:44] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
-[20:14:44] [Server thread/INFO]: WalkingPillow6 joined the game
-[20:14:44] [Server thread/INFO]: WalkingPillow6[/[0:0:0:0:0:0:0:1]:52210] logged in with entity id 3828 at ([world]-84.03639058908844, 67.0, 83.56039892684251)
-[20:15:03] [Server thread/INFO]: WalkingPillow6 lost connection: Disconnected
-[20:15:03] [Server thread/INFO]: WalkingPillow6 left the game
-[20:15:08] [User Authenticator #10/INFO]: UUID of player WalkingPillow6 is 7fb862a4-6b24-334a-ab8a-a587687674c9
-[20:15:08] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
-[20:15:08] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
-[20:15:08] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
-[20:15:08] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
-[20:15:08] [Server thread/INFO]: WalkingPillow6 joined the game
-[20:15:08] [Server thread/INFO]: WalkingPillow6[/[0:0:0:0:0:0:0:1]:35502] logged in with entity id 3905 at ([world]-84.03639058908844, 67.0, 83.56039892684251)
-[20:15:42] [Server thread/INFO]: WalkingPillow6 lost connection: Disconnected
-[20:15:42] [Server thread/INFO]: WalkingPillow6 left the game
-[20:15:46] [User Authenticator #10/INFO]: UUID of player WalkingPillow6 is 7fb862a4-6b24-334a-ab8a-a587687674c9
-[20:15:46] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
-[20:15:46] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
-[20:15:46] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
-[20:15:46] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
-[20:15:46] [Server thread/INFO]: WalkingPillow6 joined the game
-[20:15:46] [Server thread/INFO]: WalkingPillow6[/[0:0:0:0:0:0:0:1]:49306] logged in with entity id 3954 at ([world]-84.03639058908844, 67.0, 83.56039892684251)
-[20:15:53] [Server thread/INFO]: WalkingPillow6 lost connection: Disconnected
-[20:15:53] [Server thread/INFO]: WalkingPillow6 left the game
-[20:45:15] [User Authenticator #11/INFO]: UUID of player WalkingPillow6 is 7fb862a4-6b24-334a-ab8a-a587687674c9
-[20:45:15] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
-[20:45:15] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
-[20:45:15] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
-[20:45:15] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
-[20:45:15] [Server thread/INFO]: WalkingPillow6 joined the game
-[20:45:15] [Server thread/INFO]: WalkingPillow6[/[0:0:0:0:0:0:0:1]:35204] logged in with entity id 3983 at ([world]-84.03639058908844, 67.0, 83.56039892684251)
-[20:48:58] [Server thread/INFO]: WalkingPillow6 lost connection: Disconnected
-[20:48:58] [Server thread/INFO]: WalkingPillow6 left the game
-[20:56:16] [User Authenticator #12/INFO]: UUID of player WalkingPillow6 is 7fb862a4-6b24-334a-ab8a-a587687674c9
-[20:56:17] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
-[20:56:17] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
-[20:56:17] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
-[20:56:17] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
-[20:56:17] [Server thread/INFO]: WalkingPillow6 joined the game
-[20:56:17] [Server thread/INFO]: WalkingPillow6[/[0:0:0:0:0:0:0:1]:44676] logged in with entity id 4377 at ([world]-84.03639058908844, 67.0, 83.56039892684251)
-[20:56:25] [Server thread/INFO]: WalkingPillow6 lost connection: Disconnected
-[20:56:25] [Server thread/INFO]: WalkingPillow6 left the game
+[22:12:45] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:12:46] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[22:12:46] [Worker-Main-1/INFO]: Loaded 7 recipes
+[22:12:47] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[22:12:47] [Server thread/INFO]: Loading properties
+[22:12:47] [Server thread/INFO]: This server is running Purpur version git-Purpur-1428 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: 9beb23b on ver/1.17.1)
+[22:12:48] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:12:48] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:12:48] [Server thread/INFO]: Default game type: SURVIVAL
+[22:12:48] [Server thread/INFO]: Generating keypair
+[22:12:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:12:48] [Server thread/INFO]: Using epoll channel type
+[22:12:48] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[22:12:48] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[22:12:49] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.9.3
+[22:12:49] [Server thread/INFO]: [ViaVersion] ViaVersion 4.9.3 is now loaded. Registering protocol transformers and injecting...
+[22:12:49] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[22:12:49] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[22:12:49] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[22:12:49] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[22:12:50] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v4.9.2
+[22:12:50] [Server thread/INFO]: [ViaRewind] Loading ViaRewind v3.0.6
+[22:12:50] [Server thread/INFO]: [ViaRewind-Legacy-Support] Loading ViaRewind-Legacy-Support v1.4.2
+[22:12:50] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:12:50] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v3.0.6
+[22:12:50] [Server thread/INFO]: Preparing level "world"
+[22:12:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:12:51] [Server thread/INFO]: Time elapsed: 454 ms
+[22:12:51] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[22:12:51] [Server thread/INFO]: Time elapsed: 234 ms
+[22:12:51] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[22:12:51] [Server thread/INFO]: Time elapsed: 355 ms
+[22:12:51] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.9.3
+[22:12:52] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.17.1 (756)
+[22:12:52] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.9.2
+[22:12:52] [Server thread/INFO]: [ViaRewind-Legacy-Support] Enabling ViaRewind-Legacy-Support v1.4.2
+[22:12:52] [Server thread/INFO]: Running delayed init tasks
+[22:12:52] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[22:12:52] [Server thread/INFO]: Done (4.462s)! For help, type "help"
+[22:12:52] [Server thread/INFO]: Timings Reset
+[22:12:52] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/18, uuid='55caa8e8-35c3-448e-8686-a9bc169e069d', l='ServerLevel[world]', x=-234.97, y=72.00, z=-3.11, cpos=[-15, -1], tl=479633, v=false, rR=null]
+[22:12:52] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/19, uuid='55caa8e8-35c3-448e-8686-a9bc169e069d', l='ServerLevel[world]', x=-224.27, y=75.00, z=11.50, cpos=[-15, 0], tl=509634, v=false, rR=null]
+[22:12:52] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/21, uuid='bef2a858-28d5-4e18-85e9-d9c67bfe16ed', l='ServerLevel[world]', x=-222.65, y=80.00, z=-39.86, cpos=[-14, -3], tl=533626, v=false, rR=null]
+[22:12:52] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/22, uuid='bef2a858-28d5-4e18-85e9-d9c67bfe16ed', l='ServerLevel[world]', x=-221.62, y=83.00, z=-31.21, cpos=[-14, -2], tl=491627, v=false, rR=null]
+[22:12:52] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/36, uuid='55caa8e8-35c3-448e-8686-a9bc169e069d', l='ServerLevel[world]', x=-204.73, y=71.00, z=5.73, cpos=[-13, 0], tl=527635, v=false, rR=null]
+[22:12:52] [Server thread/WARN]: UUID of added entity already exists: EntityPig['Pig'/54, uuid='031d5b86-140c-43ef-8d0b-b03391e6383d', l='ServerLevel[world]', x=-191.66, y=88.00, z=88.50, cpos=[-12, 5], tl=131662, v=false, rR=null]
+[22:12:52] [Server thread/WARN]: UUID of added entity already exists: EntityPig['Pig'/55, uuid='ca418d21-2dd5-428e-a989-d4bfecde6bd8', l='ServerLevel[world]', x=-191.45, y=88.00, z=87.74, cpos=[-12, 5], tl=131679, v=false, rR=null]
+[22:12:52] [Server thread/WARN]: UUID of added entity already exists: EntityChicken['Chicken'/73, uuid='37996f0c-bea5-4344-9f42-0bbdb4b04692', l='ServerLevel[world]', x=-173.94, y=111.00, z=132.18, cpos=[-11, 8], tl=77638, v=false, rR=null]
+[22:12:52] [Server thread/WARN]: UUID of added entity already exists: EntityBat['Bat'/77, uuid='57b95970-f339-41ba-bf4f-474118c2a9ea', l='ServerLevel[world]', x=-152.75, y=14.10, z=83.75, cpos=[-10, 5], tl=42009, v=false, rR=null]
+[22:12:52] [Server thread/WARN]: UUID of added entity already exists: Axolotl['Axolotl'/79, uuid='e7d270d6-3015-4e01-9dbb-e7f2589cc5c4', l='ServerLevel[world]', x=-154.31, y=46.00, z=107.67, cpos=[-10, 6], tl=20971, v=false, rR=null]
+[22:12:52] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/92, uuid='eec2f91e-3100-4ec9-a7b5-d8dfc72bc867', l='ServerLevel[world]', x=-131.17, y=89.00, z=110.52, cpos=[-9, 6], tl=425526, v=false, rR=null]
+[22:12:53] [Server thread/WARN]: UUID of added entity already exists: EntityPig['Pig'/151, uuid='10df801f-d5c8-40e3-98e5-77d1f8ac76bb', l='ServerLevel[world]', x=-26.22, y=70.00, z=56.49, cpos=[-2, 3], tl=137581, v=false, rR=null]
+[22:12:53] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/153, uuid='d9cb36ac-7834-44a6-8935-c3e9a9b92a07', l='ServerLevel[world]', x=-22.28, y=71.00, z=51.52, cpos=[-2, 3], tl=142315, v=false, rR=null]
+[22:12:53] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/154, uuid='073559de-7860-4a5f-a130-3de44f2deb85', l='ServerLevel[world]', x=-9.22, y=77.00, z=-78.72, cpos=[-1, -5], tl=226304, v=false, rR=null]
+[22:12:53] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/155, uuid='073559de-7860-4a5f-a130-3de44f2deb85', l='ServerLevel[world]', x=-10.50, y=82.00, z=-47.17, cpos=[-1, -3], tl=106306, v=false, rR=null]
+[22:12:53] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/160, uuid='4aa7e47a-db5c-4d8b-b30b-b599b64992b8', l='ServerLevel[world]', x=-1.55, y=77.00, z=24.39, cpos=[-1, 1], tl=208312, v=false, rR=null]
+[22:12:53] [Server thread/WARN]: UUID of added entity already exists: EntityChicken['Chicken'/175, uuid='8ced09fe-401b-427c-9d77-0fa599be22a3', l='ServerLevel[world]', x=0.19, y=76.00, z=52.57, cpos=[0, 3], tl=22311, v=false, rR=null]
+[22:12:53] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/178, uuid='5307818b-1ae0-48eb-a96c-42d2114140ff', l='ServerLevel[world]', x=12.76, y=65.00, z=126.50, cpos=[0, 7], tl=305525, v=false, rR=null]
+[22:12:53] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/179, uuid='5307818b-1ae0-48eb-a96c-42d2114140ff', l='ServerLevel[world]', x=11.82, y=65.00, z=129.49, cpos=[0, 8], tl=329526, v=false, rR=null]
+[22:12:53] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/187, uuid='f5cb93f2-0780-4582-98bd-5bce375be7b1', l='ServerLevel[world]', x=-258.74, y=72.00, z=14.32, cpos=[-17, 0], tl=104859, v=false, rR=null]
