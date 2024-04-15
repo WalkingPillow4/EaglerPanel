@@ -90,3 +90,68 @@
 [19:40:58] [Server thread/INFO]: WalkingPillow4_ lost connection: Kicked by an operator
 [19:40:58] [Server thread/INFO]: WalkingPillow4_ left the game
 [19:40:58] [Server thread/INFO]: Kicked WalkingPillow4_: Kicked by an operator
+[19:43:11] [User Authenticator #3/INFO]: UUID of player WalkingPillow4_ is 55162d9e-a0ca-359f-bae1-98fdc2d95664
+[19:43:11] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[19:43:11] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[19:43:11] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[19:43:11] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[19:43:11] [Server thread/INFO]: WalkingPillow4_ joined the game
+[19:43:11] [Server thread/INFO]: WalkingPillow4_[/[0:0:0:0:0:0:0:1]:36362] logged in with entity id 972 at ([world]-127.81171586538511, 93.10680683986497, 62.249308666686666)
+[19:43:14] [Async Chat Thread - #1/INFO]: <WalkingPillow4_> dont
+[19:43:16] [Async Chat Thread - #1/INFO]: <WalkingPillow4_> delete my server
+[19:43:27] [Async Chat Thread - #1/INFO]: <WalkingPillow4_> if they see u with your repositories we both go down
+[19:43:41] [Async Chat Thread - #1/INFO]: <WalkingPillow6> ok
+[19:43:55] [Async Chat Thread - #1/INFO]: <WalkingPillow4_> so we chill
+[19:43:58] [Async Chat Thread - #1/INFO]: <WalkingPillow4_> alo why are you 6
+[19:43:58] [Async Chat Thread - #1/INFO]: <WalkingPillow6> ye i guess
+[19:44:04] [Async Chat Thread - #1/INFO]: <WalkingPillow6> no wonder why it lagging so much
+[19:44:06] [Server thread/INFO]: WalkingPillow4_ issued server command: /give
+[19:44:09] [Async Chat Thread - #1/INFO]: <WalkingPillow4_> giem a sec
+[19:44:10] [Async Chat Thread - #1/INFO]: <WalkingPillow6> you joined and i didn't notice XD
+[19:44:12] [Server thread/INFO]: WalkingPillow4_ lost connection: Disconnected
+[19:44:12] [Server thread/INFO]: WalkingPillow4_ left the game
+[19:44:25] [User Authenticator #4/INFO]: UUID of player Neonic is febdbb10-b91d-3d00-9817-1ff489b34cde
+[19:44:25] [Server thread/INFO]: Neonic joined the game
+[19:44:25] [Server thread/INFO]: Neonic[/[0:0:0:0:0:0:0:1]:33478] logged in with entity id 1136 at ([world]-88.0944595040056, 63.0, 27.414316617964005)
+[19:44:25] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[19:44:25] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[19:44:25] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[19:44:25] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[19:44:27] [Server thread/INFO]: Neonic issued server command: /give
+[19:44:29] [Async Chat Thread - #1/INFO]: <Neonic> wah
+[19:44:35] [Server thread/INFO]: Neonic issued server command: /tp
+[19:44:36] [Server thread/INFO]: Neonic issued server command: /op
+[19:44:41] [Async Chat Thread - #1/INFO]: <Neonic> did u deop me
+[19:44:42] [Async Chat Thread - #1/INFO]: <Neonic> heh
+[19:45:00] [Async Chat Thread - #1/INFO]: <WalkingPillow6> no
+[19:45:07] [Server thread/INFO]: Neonic issued server command: /gamemode creative
+[19:45:07] [Async Chat Thread - #1/INFO]: <WalkingPillow6> no accounts get op
+[19:45:10] [Async Chat Thread - #1/INFO]: <Neonic> why
+[19:45:20] [Async Chat Thread - #1/INFO]: <WalkingPillow6> bc you can access any username
+[19:45:24] [Async Chat Thread - #1/INFO]: <Neonic> on my server u cant
+[19:45:25] [Async Chat Thread - #1/INFO]: <WalkingPillow6> and so can everyone else
+[19:45:28] [Async Chat Thread - #1/INFO]: <WalkingPillow6> ok? idc
+[19:45:29] [Async Chat Thread - #1/INFO]: <Neonic> xtectonic is opped on my server
+[19:45:32] [Async Chat Thread - #1/INFO]: <Neonic> :)))
+[19:45:35] [Async Chat Thread - #1/INFO]: <WalkingPillow6> i still don't care
+[19:45:40] [Async Chat Thread - #1/INFO]: <Neonic> ok
+[19:45:44] [Async Chat Thread - #1/INFO]: <WalkingPillow6> play mc here or don't
+[19:45:58] [Server thread/INFO]: Neonic was slain by WalkingPillow6
+[19:46:21] [Async Chat Thread - #1/INFO]: <Neonic> gtg
+[19:46:23] [Async Chat Thread - #1/INFO]: <WalkingPillow6> stop
+[19:46:23] [Server thread/INFO]: Neonic lost connection: Disconnected
+[19:46:23] [Server thread/INFO]: Neonic left the game
+[19:46:34] [Server thread/INFO]: WalkingPillow6 lost connection: Disconnected
+[19:46:34] [Server thread/INFO]: WalkingPillow6 left the game
+[19:47:51] [User Authenticator #5/INFO]: UUID of player Neonic is febdbb10-b91d-3d00-9817-1ff489b34cde
+[19:47:51] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[19:47:51] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[19:47:51] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[19:47:51] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[19:47:51] [Server thread/INFO]: Neonic joined the game
+[19:47:51] [Server thread/INFO]: Neonic[/[0:0:0:0:0:0:0:1]:60306] logged in with entity id 1387 at ([world]-105.69999998807907, 81.0, 26.79878466399423)
+[19:47:53] [Async Chat Thread - #2/INFO]: <Neonic> nvm
+[19:47:56] [Async Chat Thread - #2/INFO]: <Neonic> why does my motd not work
+[19:48:03] [Async Chat Thread - #2/INFO]: <Neonic> it just says Eaglerx server :C
+[19:48:13] [Server thread/INFO]: Neonic lost connection: Disconnected
+[19:48:13] [Server thread/INFO]: Neonic left the game
