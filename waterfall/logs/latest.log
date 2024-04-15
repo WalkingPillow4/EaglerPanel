@@ -46,3 +46,17 @@
 [19:34:18] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.0.10 by lax1dude
 [19:34:18] [Netty Boss IO Thread #0/INFO]: Listening on /0.0.0.0:25577
 [19:34:19] [EaglerXBungee: Network Tick Tasks/INFO] [EaglercraftXBungee]: Loaded certificate: /workspaces/EaglerPanel/waterfall/plugins/EaglercraftXBungee/eagcert/$dl.24a1bafc15c675276968d78cdcb55a04992bddb0.cert
+[19:36:34] [Netty Worker IO Thread #1/WARN] [EaglercraftXBungee]: Server icon is not a file: /workspaces/EaglerPanel/waterfall/server-icon.png
+[19:36:47] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:45614]: Connected via websocket
+[19:36:47] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:45614]: Origin header is null
+[19:36:47] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:45614]: Logged in as 'WalkingPillow6'
+[19:36:47] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:45614|WalkingPillow6] -> UpstreamBridge has connected
+[19:36:47] [Netty Worker IO Thread #3/INFO]: [WalkingPillow6|/[0:0:0:0:0:0:0:1%0]:45614] <-> ServerConnector [lobby] has connected
+[19:40:14] [Netty Worker IO Thread #5/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:40762]: Connected via websocket
+[19:40:14] [Netty Worker IO Thread #5/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:40762]: Origin header is null
+[19:40:14] [Netty Worker IO Thread #5/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:40762]: Logged in as 'WalkingPillow4_'
+[19:40:14] [Netty Worker IO Thread #5/INFO]: [/[0:0:0:0:0:0:0:1%0]:40762|WalkingPillow4_] -> UpstreamBridge has connected
+[19:40:14] [Netty Worker IO Thread #5/INFO]: [WalkingPillow4_|/[0:0:0:0:0:0:0:1%0]:40762] <-> ServerConnector [lobby] has connected
+[19:40:58] [Netty Worker IO Thread #5/INFO]: [WalkingPillow4_] disconnected with: Kicked by an operator
+[19:40:58] [Netty Worker IO Thread #5/INFO]: [/[0:0:0:0:0:0:0:1%0]:40762|WalkingPillow4_] -> UpstreamBridge has disconnected
+[19:40:58] [Netty Worker IO Thread #5/INFO]: [/[0:0:0:0:0:0:0:1%0]:40762|WalkingPillow4_] <-> DownstreamBridge <-> [lobby] has disconnected

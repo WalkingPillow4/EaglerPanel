@@ -53,3 +53,40 @@
 [19:33:49] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/211, uuid='f5cb93f2-0780-4582-98bd-5bce375be7b1', l='ServerLevel[world]', x=-259.82, y=72.00, z=-4.82, cpos=[-17, -1], tl=110756, v=false, rR=null]
 [19:33:49] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/213, uuid='c65860a2-6faa-43a5-91d0-4dd26ac00413', l='ServerLevel[world]', x=-264.81, y=82.00, z=36.50, cpos=[-17, 2], tl=12373, v=false, rR=null]
 [19:33:49] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/214, uuid='c65860a2-6faa-43a5-91d0-4dd26ac00413', l='ServerLevel[world]', x=-270.19, y=82.00, z=50.77, cpos=[-17, 3], tl=565, v=false, rR=null]
+[19:36:47] [User Authenticator #1/INFO]: UUID of player WalkingPillow6 is 7fb862a4-6b24-334a-ab8a-a587687674c9
+[19:36:47] [Server thread/INFO]: WalkingPillow6 joined the game
+[19:36:47] [Server thread/INFO]: WalkingPillow6[/[0:0:0:0:0:0:0:1]:37466] logged in with entity id 253 at ([world]-101.5, 78.0, 23.5)
+[19:36:48] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[19:36:48] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[19:36:48] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[19:36:48] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[19:36:50] [Server thread/WARN]: UUID of added entity already exists: EntityPig['Pig'/269, uuid='3ee85776-754a-4d23-be59-810d06c28d77', l='ServerLevel[world]', x=-288.02, y=71.00, z=62.09, cpos=[-19, 3], tl=8196, v=false, rR=null]
+[19:36:50] [Server thread/WARN]: UUID of added entity already exists: EntityWolf['Wolf'/276, uuid='0aa070ef-9d07-47b8-a34b-f3229d2741b6', l='ServerLevel[world]', x=-288.05, y=74.00, z=110.09, cpos=[-19, 6], tl=22232, v=false, rR=null]
+[19:36:51] [Server thread/WARN]: UUID of added entity already exists: EntityRabbit['Rabbit'/278, uuid='17073872-3f15-445a-8511-03759076a4ea', l='ServerLevel[world]', x=-288.01, y=72.32, z=-125.96, cpos=[-19, -8], tl=15648, v=false, rR=null]
+[19:36:51] [Server thread/WARN]: UUID of added entity already exists: EntityRabbit['Rabbit'/281, uuid='894b97aa-c853-46aa-91ac-debe8299d670', l='ServerLevel[world]', x=-288.03, y=74.00, z=-144.13, cpos=[-19, -10], tl=8258, v=false, rR=null]
+[19:38:08] [Server thread/INFO]: WalkingPillow6 has made the advancement [Stone Age]
+[19:39:45] [Server thread/INFO]: WalkingPillow6 has made the advancement [Getting an Upgrade]
+[19:40:15] [User Authenticator #2/INFO]: UUID of player WalkingPillow4_ is 55162d9e-a0ca-359f-bae1-98fdc2d95664
+[19:40:15] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[19:40:15] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[19:40:15] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[19:40:15] [Server thread/INFO]: WalkingPillow4_ joined the game
+[19:40:15] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[19:40:15] [Server thread/INFO]: WalkingPillow4_[/[0:0:0:0:0:0:0:1]:33824] logged in with entity id 640 at ([world]-118.5, 97.0, 15.5)
+[19:40:20] [Async Chat Thread - #0/INFO]: <WalkingPillow6> who are you
+[19:40:22] [Async Chat Thread - #0/INFO]: <WalkingPillow6> -_0
+[19:40:24] [Async Chat Thread - #0/INFO]: <WalkingPillow4_> I am
+[19:40:25] [Async Chat Thread - #0/INFO]: <WalkingPillow6> Aryan?
+[19:40:28] [Async Chat Thread - #0/INFO]: <WalkingPillow4_> skibidigyatt44
+[19:40:28] [Async Chat Thread - #0/INFO]: <WalkingPillow6> -_0
+[19:40:31] [Async Chat Thread - #0/INFO]: <WalkingPillow4_> btw I got my server working
+[19:40:33] [Async Chat Thread - #0/INFO]: <WalkingPillow6> so you're Aryan
+[19:40:34] [Server thread/INFO]: WalkingPillow4_ issued server command: /ops
+[19:40:35] [Async Chat Thread - #0/INFO]: <WalkingPillow6> nuh uh
+[19:40:40] [Async Chat Thread - #0/INFO]: <WalkingPillow6> it's going down soon
+[19:40:45] [Server thread/INFO]: WalkingPillow4_ was slain by WalkingPillow6
+[19:40:48] [Async Chat Thread - #0/INFO]: <WalkingPillow6> lol
+[19:40:50] [Async Chat Thread - #0/INFO]: <WalkingPillow4_> is that a threat kid
+[19:40:58] [Server thread/INFO]: WalkingPillow4_ lost connection: Kicked by an operator
+[19:40:58] [Server thread/INFO]: WalkingPillow4_ left the game
+[19:40:58] [Server thread/INFO]: Kicked WalkingPillow4_: Kicked by an operator
