@@ -87,3 +87,43 @@
 [19:48:12] [Netty Worker IO Thread #5/INFO]: [/[0:0:0:0:0:0:0:1%0]:52800|Neonic] -> UpstreamBridge has disconnected
 [19:48:12] [Netty Worker IO Thread #5/INFO]: [Neonic] disconnected with: Proxy lost connection to server.
 [19:48:12] [Netty Worker IO Thread #5/INFO]: [/[0:0:0:0:0:0:0:1%0]:52800|Neonic] <-> DownstreamBridge <-> [lobby] has disconnected
+[19:50:57] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:52790]: Connected via websocket
+[19:50:57] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:52790]: Origin header is null
+[19:50:57] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:52790]: Logged in as 'WalkingPillow6'
+[19:50:57] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:52790|WalkingPillow6] -> UpstreamBridge has connected
+[19:50:57] [Netty Worker IO Thread #0/INFO]: [WalkingPillow6|/[0:0:0:0:0:0:0:1%0]:52790] <-> ServerConnector [lobby] has connected
+[19:55:33] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:38152]: Connected via websocket
+[19:55:33] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:38152]: Origin header is null
+[19:55:33] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:38152]: Logged in as 'Neonic'
+[19:55:33] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:38152|Neonic] -> UpstreamBridge has connected
+[19:55:33] [Netty Worker IO Thread #2/INFO]: [Neonic|/[0:0:0:0:0:0:0:1%0]:38152] <-> ServerConnector [lobby] has connected
+[20:01:42] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:38152|Neonic] -> UpstreamBridge has disconnected
+[20:01:42] [Netty Worker IO Thread #2/INFO]: [Neonic] disconnected with: Proxy lost connection to server.
+[20:01:42] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:38152|Neonic] <-> DownstreamBridge <-> [lobby] has disconnected
+[20:02:37] [Netty Worker IO Thread #5/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:49028]: Connected via websocket
+[20:02:37] [Netty Worker IO Thread #5/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:49028]: Origin header is null
+[20:02:37] [Netty Worker IO Thread #5/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:49028]: Logged in as 'Neonic'
+[20:02:37] [Netty Worker IO Thread #5/INFO]: [/[0:0:0:0:0:0:0:1%0]:49028|Neonic] -> UpstreamBridge has connected
+[20:02:37] [Netty Worker IO Thread #5/INFO]: [Neonic|/[0:0:0:0:0:0:0:1%0]:49028] <-> ServerConnector [lobby] has connected
+[20:05:30] [Netty Worker IO Thread #5/INFO]: [/[0:0:0:0:0:0:0:1%0]:49028|Neonic] -> UpstreamBridge has disconnected
+[20:05:30] [Netty Worker IO Thread #5/INFO]: [Neonic] disconnected with: Proxy lost connection to server.
+[20:05:30] [Netty Worker IO Thread #5/INFO]: [/[0:0:0:0:0:0:0:1%0]:49028|Neonic] <-> DownstreamBridge <-> [lobby] has disconnected
+[20:07:03] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:52790|WalkingPillow6] -> UpstreamBridge has disconnected
+[20:07:03] [Netty Worker IO Thread #0/INFO]: [WalkingPillow6] disconnected with: Proxy lost connection to server.
+[20:07:03] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:52790|WalkingPillow6] <-> DownstreamBridge <-> [lobby] has disconnected
+[20:10:21] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:40102]: Connected via websocket
+[20:10:21] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:40102]: Origin header is null
+[20:10:22] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:40102]: Logged in as 'Neonic'
+[20:10:22] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:40102|Neonic] -> UpstreamBridge has connected
+[20:10:22] [Netty Worker IO Thread #0/INFO]: [Neonic|/[0:0:0:0:0:0:0:1%0]:40102] <-> ServerConnector [lobby] has connected
+[20:10:29] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:40102|Neonic] -> UpstreamBridge has disconnected
+[20:10:29] [Netty Worker IO Thread #0/INFO]: [Neonic] disconnected with: Proxy lost connection to server.
+[20:10:29] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:40102|Neonic] <-> DownstreamBridge <-> [lobby] has disconnected
+[20:10:44] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:53944]: Connected via websocket
+[20:10:44] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:53944]: Origin header is null
+[20:10:44] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:53944]: Logged in as 'WalkingPillow6'
+[20:10:44] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:53944|WalkingPillow6] -> UpstreamBridge has connected
+[20:10:44] [Netty Worker IO Thread #3/INFO]: [WalkingPillow6|/[0:0:0:0:0:0:0:1%0]:53944] <-> ServerConnector [lobby] has connected
+[20:11:18] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:53944|WalkingPillow6] -> UpstreamBridge has disconnected
+[20:11:18] [Netty Worker IO Thread #3/INFO]: [WalkingPillow6] disconnected with: Proxy lost connection to server.
+[20:11:18] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:53944|WalkingPillow6] <-> DownstreamBridge <-> [lobby] has disconnected

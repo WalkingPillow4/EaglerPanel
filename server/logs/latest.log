@@ -155,3 +155,192 @@
 [19:48:03] [Async Chat Thread - #2/INFO]: <Neonic> it just says Eaglerx server :C
 [19:48:13] [Server thread/INFO]: Neonic lost connection: Disconnected
 [19:48:13] [Server thread/INFO]: Neonic left the game
+[19:50:57] [User Authenticator #6/INFO]: UUID of player WalkingPillow6 is 7fb862a4-6b24-334a-ab8a-a587687674c9
+[19:50:57] [Server thread/INFO]: WalkingPillow6 joined the game
+[19:50:57] [Server thread/INFO]: WalkingPillow6[/[0:0:0:0:0:0:0:1]:38228] logged in with entity id 1471 at ([world]-107.69999998807907, 83.0, 26.963614929894813)
+[19:50:57] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[19:50:57] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[19:50:57] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[19:50:57] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[19:51:09] [Server thread/INFO]: Gave 8 [Golden Carrot] to WalkingPillow6
+[19:55:33] [User Authenticator #7/INFO]: UUID of player Neonic is febdbb10-b91d-3d00-9817-1ff489b34cde
+[19:55:33] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[19:55:33] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[19:55:33] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[19:55:33] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[19:55:34] [Server thread/INFO]: Neonic joined the game
+[19:55:34] [Server thread/INFO]: Neonic[/[0:0:0:0:0:0:0:1]:38798] logged in with entity id 2048 at ([world]-110.9819343274104, 84.0, 15.866146810269553)
+[19:55:39] [Async Chat Thread - #3/INFO]: <WalkingPillow6> yo
+[19:55:40] [Server thread/INFO]: Neonic issued server command: /op
+[19:55:41] [Async Chat Thread - #3/INFO]: <Neonic> hi
+[19:55:46] [Async Chat Thread - #3/INFO]: <Neonic> resent doesnt work
+[19:55:48] [Async Chat Thread - #3/INFO]: <Neonic> with my server
+[19:55:49] [Async Chat Thread - #3/INFO]: <WalkingPillow6> lol
+[19:55:51] [Async Chat Thread - #3/INFO]: <Neonic> but with yours it works
+[19:55:53] [Async Chat Thread - #3/INFO]: <WalkingPillow6> hehe
+[19:55:56] [Async Chat Thread - #3/INFO]: <Neonic> can u help pls
+[19:55:59] [Async Chat Thread - #3/INFO]: <WalkingPillow6> idk how
+[19:56:07] [Async Chat Thread - #3/INFO]: <WalkingPillow6> i guess i'm just better?
+[19:56:12] [Async Chat Thread - #3/INFO]: <WalkingPillow6> i really don't know how
+[19:56:17] [Async Chat Thread - #3/INFO]: <WalkingPillow6> i can try to help, if
+[19:56:18] [Async Chat Thread - #3/INFO]: <Neonic> :/
+[19:56:27] [Async Chat Thread - #3/INFO]: <Neonic> it only works with the EaglercraftX 1.8
+[19:56:29] [Async Chat Thread - #3/INFO]: <WalkingPillow6> you tell me how to password protect accounts on the servers
+[19:56:34] [Async Chat Thread - #3/INFO]: <WalkingPillow6> and i can try to help
+[19:56:38] [Async Chat Thread - #3/INFO]: <Neonic> U just need to set online-mode to true
+[19:56:42] [Async Chat Thread - #3/INFO]: <WalkingPillow6> i did that tho
+[19:56:49] [Async Chat Thread - #3/INFO]: <WalkingPillow6> and it made it so nobody could join
+[19:57:03] [Async Chat Thread - #3/INFO]: <Neonic> auth plugin
+[19:57:04] [Server thread/INFO]: Neonic was shot by Skeleton
+[19:57:06] [Async Chat Thread - #3/INFO]: <WalkingPillow6> bc "Connection refused! The server is in online mode!"
+[19:57:12] [Server thread/INFO]: Neonic issued server command: /me ate a sibid
+[19:57:12] [Server thread/INFO]: * Neonic ate a sibid
+[19:57:16] [Server thread/INFO]: Neonic issued server command: /me ate a skibidi.
+[19:57:16] [Server thread/INFO]: * Neonic ate a skibidi.
+[19:57:16] [Async Chat Thread - #3/INFO]: <WalkingPillow6> lol wtf
+[19:57:19] [Async Chat Thread - #3/INFO]: <WalkingPillow6> how
+[19:57:22] [Async Chat Thread - #3/INFO]: <WalkingPillow6> do ppl do that
+[19:57:25] [Server thread/INFO]: Neonic issued server command: /me has been opped.
+[19:57:25] [Server thread/INFO]: * Neonic has been opped.
+[19:57:26] [Async Chat Thread - #3/INFO]: <Neonic> EZ
+[19:57:29] [Async Chat Thread - #3/INFO]: <WalkingPillow6> nuh uh
+[19:57:29] [Async Chat Thread - #3/INFO]: <Neonic> banned (real)
+[19:57:34] [Async Chat Thread - #3/INFO]: <Neonic> &4&lshut up
+[19:57:38] [Async Chat Thread - #3/INFO]: <Neonic> &
+[19:57:43] [Async Chat Thread - #3/INFO]: <Neonic> huh
+[19:57:45] [Server thread/INFO]: WalkingPillow6 issued server command: /me is mining water
+[19:57:45] [Server thread/INFO]: * WalkingPillow6 is mining water
+[19:57:50] [Async Chat Thread - #3/INFO]: <WalkingPillow6> i checked the console
+[19:57:57] [Async Chat Thread - #3/INFO]: <WalkingPillow6> and found out what commands you were using
+[19:57:58] [Async Chat Thread - #3/INFO]: <WalkingPillow6> lol
+[19:58:00] [Async Chat Thread - #3/INFO]: <Neonic> guy at
+[19:58:04] [Server thread/INFO]: Neonic issued server command: /ifarttedonaguy
+[19:58:06] [Async Chat Thread - #3/INFO]: <Neonic> check console
+[19:58:08] [Server thread/INFO]: WalkingPillow6 issued server command: /me is breathing air
+[19:58:08] [Server thread/INFO]: * WalkingPillow6 is breathing air
+[19:58:08] [Server thread/INFO]: Neonic issued server command: /ifarttedonaguy
+[19:58:09] [Server thread/INFO]: Neonic issued server command: /ifarttedonaguy
+[19:58:14] [Server thread/INFO]: Neonic issued server command: /fuckedallama
+[19:58:15] [Server thread/INFO]: Neonic issued server command: /fuckedallama
+[19:58:16] [Server thread/INFO]: Neonic issued server command: /fuckedallama
+[19:58:17] [Server thread/INFO]: Neonic issued server command: /fuckedallama
+[19:58:17] [Async Chat Thread - #3/INFO]: <WalkingPillow6> -_0
+[19:58:17] [Server thread/INFO]: Neonic issued server command: /fuckedallama
+[19:58:20] [Server thread/INFO]: Neonic issued server command: /help
+[19:58:21] [Async Chat Thread - #3/INFO]: <WalkingPillow6> btw
+[19:58:23] [Server thread/INFO]: Neonic issued server command: /pl
+[19:58:27] [Async Chat Thread - #3/INFO]: <WalkingPillow6> in exchange for food
+[19:58:33] [Async Chat Thread - #3/INFO]: <WalkingPillow6> i need to test something on you
+[19:58:36] [Async Chat Thread - #3/INFO]: <Neonic> can u help now
+[19:58:37] [Async Chat Thread - #3/INFO]: <Neonic> pls
+[19:58:41] [Async Chat Thread - #3/INFO]: <WalkingPillow6> that requires 1x stone axe and 1x Neonic
+[19:58:51] [Async Chat Thread - #3/INFO]: <WalkingPillow6> ye what
+[19:58:55] [Async Chat Thread - #3/INFO]: <WalkingPillow6> help with what
+[19:58:55] [Async Chat Thread - #3/INFO]: <Neonic> making the server
+[19:58:57] [Async Chat Thread - #3/INFO]: <WalkingPillow6> oh
+[19:59:00] [Async Chat Thread - #3/INFO]: <WalkingPillow6> uh
+[19:59:00] [Async Chat Thread - #3/INFO]: <Neonic> bro whats this
+[19:59:01] [Async Chat Thread - #3/INFO]: <Neonic> gras
+[19:59:04] [Async Chat Thread - #3/INFO]: <Neonic> grass guy
+[19:59:06] [Async Chat Thread - #3/INFO]: <WalkingPillow6> we need to be in person to help
+[19:59:10] [Server thread/INFO]: Neonic was blown up by Creeper
+[19:59:10] [Async Chat Thread - #3/INFO]: <Neonic> hi pls glas
+[19:59:13] [Server thread/INFO]: WalkingPillow6 issued server command: /me is mining water
+[19:59:13] [Server thread/INFO]: * WalkingPillow6 is mining water
+[19:59:15] [Server thread/INFO]: Neonic issued server command: /register
+[19:59:28] [Async Chat Thread - #3/INFO]: <WalkingPillow6> wya
+[19:59:35] [Async Chat Thread - #3/INFO]: <WalkingPillow6> oh
+[19:59:36] [Async Chat Thread - #3/INFO]: <WalkingPillow6> ooh
+[19:59:43] [Async Chat Thread - #3/INFO]: <WalkingPillow6> turning on the radar hack helps me
+[20:00:04] [Async Chat Thread - #3/INFO]: <Neonic> um
+[20:00:05] [Async Chat Thread - #3/INFO]: <Neonic> what the sigma
+[20:00:32] [Async Chat Thread - #3/INFO]: <WalkingPillow6> lag spike
+[20:00:46] [Server thread/INFO]: Neonic was shot by Skeleton
+[20:00:49] [Server thread/INFO]: WalkingPillow6 has made the advancement [Monster Hunter]
+[20:01:07] [Server thread/INFO]: WalkingPillow6 fell from a high place
+[20:01:13] [Async Chat Thread - #3/INFO]: <WalkingPillow6> whoops
+[20:01:34] [Async Chat Thread - #3/INFO]: <Neonic> i fix
+[20:01:35] [Server thread/INFO]: Neonic was shot by Skeleton
+[20:01:41] [Server thread/INFO]: Neonic issued server command: /me hates nger
+[20:01:41] [Server thread/INFO]: * Neonic hates nger
+[20:01:42] [Server thread/INFO]: Neonic lost connection: Disconnected
+[20:01:42] [Server thread/INFO]: Neonic left the game
+[20:02:37] [User Authenticator #8/INFO]: UUID of player Neonic is febdbb10-b91d-3d00-9817-1ff489b34cde
+[20:02:37] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[20:02:37] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[20:02:37] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[20:02:37] [Netty Epoll Server IO #0/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[20:02:37] [Server thread/INFO]: Neonic joined the game
+[20:02:37] [Server thread/INFO]: Neonic[/[0:0:0:0:0:0:0:1]:35064] logged in with entity id 3056 at ([world]-108.5, 79.0, 8.5)
+[20:02:39] [Async Chat Thread - #4/INFO]: <Neonic> I FIXED IT
+[20:02:43] [Async Chat Thread - #4/INFO]: <WalkingPillow6> how
+[20:02:44] [Async Chat Thread - #4/INFO]: <WalkingPillow6> lol
+[20:02:46] [Async Chat Thread - #4/INFO]: <Neonic> but how do i make it not "An eaglercrackx server"
+[20:02:50] [Async Chat Thread - #4/INFO]: <WalkingPillow6> hehe
+[20:02:52] [Async Chat Thread - #4/INFO]: <WalkingPillow6> :)
+[20:02:58] [Async Chat Thread - #4/INFO]: <WalkingPillow6> good luck
+[20:03:00] [Async Chat Thread - #4/INFO]: <Neonic> you have the "cheats are allowed and you can rape" motd
+[20:03:01] [Async Chat Thread - #4/INFO]: <Neonic> bro
+[20:03:03] [Async Chat Thread - #4/INFO]: <Neonic> i helped u with auth
+[20:03:07] [Async Chat Thread - #4/INFO]: <WalkingPillow6> with what?
+[20:03:10] [Async Chat Thread - #4/INFO]: <WalkingPillow6> wdym
+[20:03:12] [Async Chat Thread - #4/INFO]: <Neonic> goober
+[20:03:22] [Async Chat Thread - #4/INFO]: <WalkingPillow6> what did you help me with
+[20:03:26] [Async Chat Thread - #4/INFO]: <WalkingPillow6> i'm confused
+[20:03:27] [Async Chat Thread - #4/INFO]: <Neonic> authenticatin
+[20:03:29] [Async Chat Thread - #4/INFO]: <WalkingPillow6> oh
+[20:03:33] [Async Chat Thread - #4/INFO]: <WalkingPillow6> i already knew that
+[20:03:35] [Async Chat Thread - #4/INFO]: <Neonic> kid
+[20:03:37] [Async Chat Thread - #4/INFO]: <WalkingPillow6> it didn't work
+[20:03:41] [Async Chat Thread - #4/INFO]: <WalkingPillow6> btw
+[20:03:44] [Async Chat Thread - #4/INFO]: <Neonic> bucky
+[20:03:44] [Async Chat Thread - #4/INFO]: <WalkingPillow6> i need to check
+[20:03:49] [Async Chat Thread - #4/INFO]: <WalkingPillow6> how much dmg does this do
+[20:03:53] [Async Chat Thread - #4/INFO]: <Neonic> no stop
+[20:03:56] [Async Chat Thread - #4/INFO]: <WalkingPillow6> lol
+[20:04:03] [Async Chat Thread - #4/INFO]: <WalkingPillow6> here's some food
+[20:04:37] [Server thread/INFO]: Neonic was slain by WalkingPillow6
+[20:04:42] [Async Chat Thread - #4/INFO]: <Neonic> nice resistance 255
+[20:04:43] [Async Chat Thread - #4/INFO]: <Neonic> retard
+[20:04:46] [Async Chat Thread - #4/INFO]: <WalkingPillow6> 1 heart
+[20:04:49] [Async Chat Thread - #4/INFO]: <WalkingPillow6> lol
+[20:04:53] [Async Chat Thread - #4/INFO]: <WalkingPillow6> imagine spam clicking
+[20:04:53] [Async Chat Thread - #4/INFO]: <Neonic> cheater
+[20:04:57] [Async Chat Thread - #4/INFO]: <WalkingPillow6> on 1.17
+[20:04:58] [Async Chat Thread - #4/INFO]: <WalkingPillow6> lol
+[20:04:59] [Async Chat Thread - #4/INFO]: <Neonic> I literally have no mouse
+[20:05:00] [Async Chat Thread - #4/INFO]: <Neonic> bRO
+[20:05:02] [Async Chat Thread - #4/INFO]: <Neonic> WTF
+[20:05:06] [Async Chat Thread - #4/INFO]: <WalkingPillow6> bro doesn't know what attack cooldowns are
+[20:05:08] [Async Chat Thread - #4/INFO]: <WalkingPillow6> XD
+[20:05:10] [Async Chat Thread - #4/INFO]: <Neonic> stfu
+[20:05:21] [Server thread/INFO]: Neonic was slain by WalkingPillow6
+[20:05:26] [Async Chat Thread - #4/INFO]: <Neonic> dumbass chink
+[20:05:26] [Async Chat Thread - #4/INFO]: <WalkingPillow6> hehe
+[20:05:27] [Async Chat Thread - #4/INFO]: <Neonic> kys
+[20:05:29] [Async Chat Thread - #4/INFO]: <Neonic> nigger
+[20:05:30] [Server thread/INFO]: Neonic lost connection: Disconnected
+[20:05:30] [Server thread/INFO]: Neonic left the game
+[20:05:43] [Server thread/INFO]: Banned Neonic: Banned by an operator.
+[20:06:24] [Server thread/INFO]: Unbanned Neonic
+[20:06:28] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[20:07:03] [Server thread/INFO]: WalkingPillow6 lost connection: Disconnected
+[20:07:03] [Server thread/INFO]: WalkingPillow6 left the game
+[20:10:22] [User Authenticator #9/INFO]: UUID of player Neonic is febdbb10-b91d-3d00-9817-1ff489b34cde
+[20:10:22] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[20:10:22] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[20:10:22] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[20:10:22] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[20:10:22] [Server thread/INFO]: Neonic joined the game
+[20:10:22] [Server thread/INFO]: Neonic[/[0:0:0:0:0:0:0:1]:57380] logged in with entity id 3597 at ([world]-106.5, 80.0, 14.820897396275125)
+[20:10:29] [Server thread/INFO]: Neonic lost connection: Disconnected
+[20:10:29] [Server thread/INFO]: Neonic left the game
+[20:10:45] [User Authenticator #9/INFO]: UUID of player WalkingPillow6 is 7fb862a4-6b24-334a-ab8a-a587687674c9
+[20:10:45] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[20:10:45] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[20:10:45] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[20:10:45] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[20:10:45] [Server thread/INFO]: WalkingPillow6 joined the game
+[20:10:45] [Server thread/INFO]: WalkingPillow6[/[0:0:0:0:0:0:0:1]:33398] logged in with entity id 3682 at ([world]-92.32423628548143, 66.0, 73.94717778915337)
+[20:11:18] [Server thread/INFO]: WalkingPillow6 lost connection: Disconnected
+[20:11:18] [Server thread/INFO]: WalkingPillow6 left the game
