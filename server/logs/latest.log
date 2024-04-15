@@ -45,3 +45,4 @@
 [14:40:35] [Server thread/INFO]: Timings Reset
 [14:40:37] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/11, uuid='1bf2340f-213b-4756-947d-49f7146c44e0', l='ServerLevel[world]', x=-232.07, y=78.00, z=23.12, cpos=[-15, 1], tl=293737, v=false, rR=null]
 [14:40:38] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/65, uuid='5307818b-1ae0-48eb-a96c-42d2114140ff', l='ServerLevel[world]', x=0.72, y=63.00, z=129.58, cpos=[0, 8], tl=173689, v=false, rR=null]
+[14:42:36] [Server thread/INFO]: Unknown command. Type "/help" for help.

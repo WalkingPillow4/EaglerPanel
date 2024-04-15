@@ -47,3 +47,11 @@
 [14:41:00] [Netty Boss IO Thread #0/INFO]: Listening on /0.0.0.0:25577
 [14:41:01] [EaglerXBungee: Network Tick Tasks/INFO] [EaglercraftXBungee]: Loaded certificate: /workspaces/EaglerPanel/waterfall/plugins/EaglercraftXBungee/eagcert/$dl.24a1bafc15c675276968d78cdcb55a04992bddb0.cert
 [14:41:23] [Netty Worker IO Thread #1/WARN] [EaglercraftXBungee]: Server icon is not a file: /workspaces/EaglerPanel/waterfall/server-icon.png
+[14:41:35] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:49476]: Connected via websocket
+[14:41:35] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:49476]: Origin header is null
+[14:41:41] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:49492]: Connected via websocket
+[14:41:41] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:49492]: Origin header is null
+[14:43:07] [Netty Worker IO Thread #6/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:57520]: Connected via websocket
+[14:43:07] [Netty Worker IO Thread #6/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:57520]: Origin header is null
+[14:43:23] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:56386]: Connected via websocket
+[14:43:23] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:56386]: Origin header is null
