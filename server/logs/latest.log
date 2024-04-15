@@ -378,3 +378,14 @@
 [20:45:15] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
 [20:45:15] [Server thread/INFO]: WalkingPillow6 joined the game
 [20:45:15] [Server thread/INFO]: WalkingPillow6[/[0:0:0:0:0:0:0:1]:35204] logged in with entity id 3983 at ([world]-84.03639058908844, 67.0, 83.56039892684251)
+[20:48:58] [Server thread/INFO]: WalkingPillow6 lost connection: Disconnected
+[20:48:58] [Server thread/INFO]: WalkingPillow6 left the game
+[20:56:16] [User Authenticator #12/INFO]: UUID of player WalkingPillow6 is 7fb862a4-6b24-334a-ab8a-a587687674c9
+[20:56:17] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[20:56:17] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[20:56:17] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[20:56:17] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[20:56:17] [Server thread/INFO]: WalkingPillow6 joined the game
+[20:56:17] [Server thread/INFO]: WalkingPillow6[/[0:0:0:0:0:0:0:1]:44676] logged in with entity id 4377 at ([world]-84.03639058908844, 67.0, 83.56039892684251)
+[20:56:25] [Server thread/INFO]: WalkingPillow6 lost connection: Disconnected
+[20:56:25] [Server thread/INFO]: WalkingPillow6 left the game
