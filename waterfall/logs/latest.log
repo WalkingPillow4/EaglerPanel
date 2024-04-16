@@ -46,3 +46,4 @@
 [23:27:14] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.0.10 by lax1dude
 [23:27:14] [Netty Boss IO Thread #0/INFO]: Listening on /0.0.0.0:25577
 [23:27:15] [EaglerXBungee: Network Tick Tasks/INFO] [EaglercraftXBungee]: Loaded certificate: /workspaces/EaglerPanel/waterfall/plugins/EaglercraftXBungee/eagcert/$dl.24a1bafc15c675276968d78cdcb55a04992bddb0.cert
+[23:46:12] [Netty Worker IO Thread #1/WARN] [EaglercraftXBungee]: Server icon is not a file: /workspaces/EaglerPanel/waterfall/server-icon.png
