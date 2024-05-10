@@ -45,3 +45,5 @@
 [20:03:04] [Server thread/INFO]: Timings Reset
 [20:03:04] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 4.10.2, you're on: 4.9.3
 [20:03:05] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/9, uuid='55caa8e8-35c3-448e-8686-a9bc169e069d', l='ServerLevel[world]', x=-251.44, y=72.00, z=5.74, cpos=[-16, 0], tl=551596, v=false, rR=null]
+[20:12:19] [Server thread/INFO]: That player does not exist
+[20:12:25] [Server thread/INFO]: That player does not exist
