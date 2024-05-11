@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "93706ec2-c814-36b2-9e5c-8c8834e78be4",
+    "name": "WalkingPillow4",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

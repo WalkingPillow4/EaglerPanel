@@ -1,49 +1,55 @@
-[20:02:58] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[20:02:58] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[20:02:58] [Worker-Main-1/INFO]: Loaded 7 recipes
-[20:03:00] [Server thread/INFO]: Starting minecraft server version 1.17.1
-[20:03:00] [Server thread/INFO]: Loading properties
-[20:03:00] [Server thread/INFO]: This server is running Purpur version git-Purpur-1428 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: 9beb23b on ver/1.17.1)
-[20:03:00] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[20:03:00] [Server thread/INFO]: Using 4 threads for Netty based IO
-[20:03:00] [Server thread/INFO]: Default game type: SURVIVAL
-[20:03:00] [Server thread/INFO]: Generating keypair
-[20:03:00] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:03:00] [Server thread/INFO]: Using epoll channel type
-[20:03:00] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[20:03:00] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[20:03:01] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.9.3
-[20:03:01] [Server thread/INFO]: [ViaVersion] ViaVersion 4.9.3 is now loaded. Registering protocol transformers and injecting...
-[20:03:01] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[20:03:01] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[20:03:01] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[20:03:01] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[20:03:02] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v4.9.2
-[20:03:02] [Server thread/INFO]: [ViaRewind] Loading ViaRewind v3.0.6
-[20:03:02] [Server thread/INFO]: [ViaRewind-Legacy-Support] Loading ViaRewind-Legacy-Support v1.4.2
-[20:03:02] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[20:03:02] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v3.0.6
-[20:03:02] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:03:02] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:03:02] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord or Velocity, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
-[20:03:02] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
-[20:03:02] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:03:02] [Server thread/INFO]: Preparing level "world"
-[20:03:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:03:03] [Server thread/INFO]: Time elapsed: 325 ms
-[20:03:03] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[20:03:03] [Server thread/INFO]: Time elapsed: 178 ms
-[20:03:03] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[20:03:03] [Server thread/INFO]: Time elapsed: 201 ms
-[20:03:03] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.9.3
-[20:03:03] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.17.1 (756)
-[20:03:03] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.9.2
-[20:03:03] [Server thread/INFO]: [ViaRewind-Legacy-Support] Enabling ViaRewind-Legacy-Support v1.4.2
-[20:03:03] [Server thread/INFO]: Running delayed init tasks
-[20:03:04] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
-[20:03:04] [Server thread/INFO]: Done (3.727s)! For help, type "help"
-[20:03:04] [Server thread/INFO]: Timings Reset
-[20:03:04] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 4.10.2, you're on: 4.9.3
-[20:03:05] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/9, uuid='55caa8e8-35c3-448e-8686-a9bc169e069d', l='ServerLevel[world]', x=-251.44, y=72.00, z=5.74, cpos=[-16, 0], tl=551596, v=false, rR=null]
-[20:12:19] [Server thread/INFO]: That player does not exist
-[20:12:25] [Server thread/INFO]: That player does not exist
+[02:08:32] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02:08:33] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[02:08:33] [Worker-Main-1/INFO]: Loaded 7 recipes
+[02:08:34] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[02:08:34] [Server thread/INFO]: Loading properties
+[02:08:34] [Server thread/INFO]: This server is running Purpur version git-Purpur-1428 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: 9beb23b on ver/1.17.1)
+[02:08:34] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:08:34] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:08:35] [Server thread/INFO]: Default game type: SURVIVAL
+[02:08:35] [Server thread/INFO]: Generating keypair
+[02:08:35] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:08:35] [Server thread/INFO]: Using epoll channel type
+[02:08:35] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[02:08:35] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[02:08:35] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.9.3
+[02:08:35] [Server thread/INFO]: [ViaVersion] ViaVersion 4.9.3 is now loaded. Registering protocol transformers and injecting...
+[02:08:36] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[02:08:36] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[02:08:36] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[02:08:36] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[02:08:36] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v4.9.2
+[02:08:36] [Server thread/INFO]: [ViaRewind] Loading ViaRewind v3.0.6
+[02:08:36] [Server thread/INFO]: [ViaRewind-Legacy-Support] Loading ViaRewind-Legacy-Support v1.4.2
+[02:08:36] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:08:36] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v3.0.6
+[02:08:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:08:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:08:36] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord or Velocity, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[02:08:36] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[02:08:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:08:36] [Server thread/INFO]: Preparing level "world"
+[02:08:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:08:37] [Server thread/INFO]: Time elapsed: 396 ms
+[02:08:37] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[02:08:38] [Server thread/INFO]: Time elapsed: 254 ms
+[02:08:38] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[02:08:38] [Server thread/INFO]: Time elapsed: 284 ms
+[02:08:38] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.9.3
+[02:08:38] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.17.1 (756)
+[02:08:38] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.9.2
+[02:08:38] [Server thread/INFO]: [ViaRewind-Legacy-Support] Enabling ViaRewind-Legacy-Support v1.4.2
+[02:08:39] [Server thread/INFO]: Running delayed init tasks
+[02:08:39] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[02:08:39] [Server thread/INFO]: Done (4.274s)! For help, type "help"
+[02:08:39] [Server thread/INFO]: Timings Reset
+[02:08:39] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 4.10.2, you're on: 4.9.3
+[02:08:40] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/12, uuid='f5cb93f2-0780-4582-98bd-5bce375be7b1', l='ServerLevel[world]', x=-242.69, y=77.00, z=33.74, cpos=[-16, 2], tl=246157, v=false, rR=null]
+[02:08:40] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/15, uuid='f5cb93f2-0780-4582-98bd-5bce375be7b1', l='ServerLevel[world]', x=-231.45, y=73.00, z=39.68, cpos=[-15, 2], tl=306157, v=false, rR=null]
+[02:08:40] [Server thread/WARN]: UUID of added entity already exists: EntityPig['Pig'/41, uuid='b6b2beba-3cad-43ee-9411-ed7c47e64f6f', l='ServerLevel[world]', x=-191.50, y=85.00, z=85.12, cpos=[-12, 5], tl=95622, v=false, rR=null]
+[02:08:40] [Server thread/WARN]: UUID of added entity already exists: EntityPig['Pig'/83, uuid='ec4ff464-7b1f-430a-95d0-9362e12e4b3a', l='ServerLevel[world]', x=-108.50, y=86.00, z=28.83, cpos=[-7, 1], tl=79953, v=false, rR=null]
+[02:08:41] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/139, uuid='4aa7e47a-db5c-4d8b-b30b-b599b64992b8', l='ServerLevel[world]', x=-9.25, y=77.00, z=-12.49, cpos=[-1, -1], tl=358216, v=false, rR=null]
+[02:08:41] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/153, uuid='5307818b-1ae0-48eb-a96c-42d2114140ff', l='ServerLevel[world]', x=7.23, y=64.00, z=127.26, cpos=[0, 7], tl=515460, v=false, rR=null]
+[02:08:41] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/154, uuid='5307818b-1ae0-48eb-a96c-42d2114140ff', l='ServerLevel[world]', x=11.03, y=64.00, z=134.97, cpos=[0, 8], tl=575461, v=false, rR=null]
+[02:08:41] [Server thread/WARN]: UUID of added entity already exists: EntityChicken['Chicken'/163, uuid='18a37b42-a4cf-46b6-9930-254fa15fb2c3', l='ServerLevel[world]', x=32.12, y=80.00, z=45.76, cpos=[2, 2], tl=107282, v=false, rR=null]
+[02:08:43] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/183, uuid='55caa8e8-35c3-448e-8686-a9bc169e069d', l='ServerLevel[world]', x=-264.16, y=72.00, z=11.17, cpos=[-17, 0], tl=558071, v=false, rR=null]
