@@ -48,3 +48,19 @@
 [15:10:37] [EaglerXBungee: Network Tick Tasks/INFO] [EaglercraftXBungee]: Loaded certificate: /workspaces/EaglerPanel/waterfall/plugins/EaglercraftXBungee/eagcert/$dl.24a1bafc15c675276968d78cdcb55a04992bddb0.cert
 [15:10:37] [EaglerXBungee: Network Tick Tasks/INFO] [EaglercraftXBungee]: Loaded certificate: /workspaces/EaglerPanel/waterfall/plugins/EaglercraftXBungee/eagcert/$dl.11da5ec1e9d8efe3fa0e9998b0c264f5c8cb155f.cert
 [15:11:14] [Netty Worker IO Thread #1/WARN] [EaglercraftXBungee]: Server icon is not a file: /workspaces/EaglerPanel/waterfall/server-icon.png
+[15:46:38] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:57376]: Connected via websocket
+[15:46:38] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:57376]: Origin header is null
+[15:46:38] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:57376]: Logged in as 'WalkingPillow5'
+[15:46:38] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:57376|WalkingPillow5] -> UpstreamBridge has connected
+[15:46:38] [Netty Worker IO Thread #3/INFO]: [WalkingPillow5|/[0:0:0:0:0:0:0:1%0]:57376] <-> ServerConnector [lobby] has connected
+[15:46:43] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:57376|WalkingPillow5] -> UpstreamBridge has disconnected
+[15:46:43] [Netty Worker IO Thread #3/INFO]: [WalkingPillow5] disconnected with: Proxy lost connection to server.
+[15:46:43] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:57376|WalkingPillow5] <-> DownstreamBridge <-> [lobby] has disconnected
+[15:46:57] [Netty Worker IO Thread #5/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:55094]: Connected via websocket
+[15:46:57] [Netty Worker IO Thread #5/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:55094]: Origin header is null
+[15:46:57] [Netty Worker IO Thread #5/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:55094]: Logged in as 'WalkingPillow4'
+[15:46:57] [Netty Worker IO Thread #5/INFO]: [/[0:0:0:0:0:0:0:1%0]:55094|WalkingPillow4] -> UpstreamBridge has connected
+[15:46:57] [Netty Worker IO Thread #5/INFO]: [WalkingPillow4|/[0:0:0:0:0:0:0:1%0]:55094] <-> ServerConnector [lobby] has connected
+[15:50:51] [Netty Worker IO Thread #5/INFO]: [/[0:0:0:0:0:0:0:1%0]:55094|WalkingPillow4] -> UpstreamBridge has disconnected
+[15:50:51] [Netty Worker IO Thread #5/INFO]: [WalkingPillow4] disconnected with: Proxy lost connection to server.
+[15:50:51] [Netty Worker IO Thread #5/INFO]: [/[0:0:0:0:0:0:0:1%0]:55094|WalkingPillow4] <-> DownstreamBridge <-> [lobby] has disconnected

@@ -53,3 +53,28 @@
 [15:10:32] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/157, uuid='5307818b-1ae0-48eb-a96c-42d2114140ff', l='ServerLevel[world]', x=11.03, y=64.00, z=134.97, cpos=[0, 8], tl=575461, v=false, rR=null]
 [15:10:33] [Server thread/WARN]: UUID of added entity already exists: EntityChicken['Chicken'/166, uuid='18a37b42-a4cf-46b6-9930-254fa15fb2c3', l='ServerLevel[world]', x=32.12, y=80.00, z=45.76, cpos=[2, 2], tl=107282, v=false, rR=null]
 [15:10:34] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/193, uuid='55caa8e8-35c3-448e-8686-a9bc169e069d', l='ServerLevel[world]', x=-264.16, y=72.00, z=11.17, cpos=[-17, 0], tl=558071, v=false, rR=null]
+[15:46:39] [User Authenticator #1/INFO]: UUID of player WalkingPillow5 is 325bd853-eb49-3b02-b111-e4ff797915ca
+[15:46:39] [Server thread/INFO]: WalkingPillow5 joined the game
+[15:46:39] [Server thread/INFO]: WalkingPillow5[/[0:0:0:0:0:0:0:1]:37558] logged in with entity id 248 at ([world]-112.5, 81.0, 12.5)
+[15:46:39] [Server thread/WARN]: UUID of added entity already exists: EntityChicken['Chicken'/257, uuid='b818d2f8-e7fd-4b88-ae85-6cc564f03844', l='ServerLevel[world]', x=-143.34, y=66.00, z=-172.19, cpos=[-9, -11], tl=46305, v=false, rR=null]
+[15:46:39] [Server thread/WARN]: UUID of added entity already exists: EntityChicken['Chicken'/258, uuid='16062baf-b5c1-4bc9-9fdb-2ae3363b94f3', l='ServerLevel[world]', x=-127.61, y=66.00, z=-161.94, cpos=[-8, -11], tl=38243, v=false, rR=null]
+[15:46:39] [Server thread/WARN]: UUID of added entity already exists: EntityChicken['Chicken'/275, uuid='3675e505-b4ae-4fa6-bf9c-ea584ce3d599', l='ServerLevel[world]', x=-191.52, y=70.00, z=-169.43, cpos=[-12, -11], tl=43933, v=false, rR=null]
+[15:46:39] [Server thread/WARN]: UUID of added entity already exists: EntityChicken['Chicken'/288, uuid='66212872-c377-41bf-ade0-1c60bb19d139', l='ServerLevel[world]', x=-183.52, y=71.00, z=-185.15, cpos=[-12, -12], tl=40632, v=false, rR=null]
+[15:46:39] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[15:46:39] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[15:46:39] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[15:46:39] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[15:46:43] [Server thread/INFO]: WalkingPillow5 lost connection: Disconnected
+[15:46:43] [Server thread/INFO]: WalkingPillow5 left the game
+[15:46:57] [User Authenticator #1/INFO]: UUID of player WalkingPillow4 is 93706ec2-c814-36b2-9e5c-8c8834e78be4
+[15:46:57] [Server thread/INFO]: WalkingPillow4 joined the game
+[15:46:57] [Server thread/INFO]: WalkingPillow4[/[0:0:0:0:0:0:0:1]:51582] logged in with entity id 308 at ([world]-77.38579377738652, 74.0, -4.704340233560948)
+[15:46:57] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|UpdateCert-1.8
+[15:46:57] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[15:46:57] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: EAG|Skins-1.8
+[15:46:57] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[15:50:34] [Server thread/INFO]: Removed 509 items from player WalkingPillow4
+[15:50:37] [Server thread/INFO]: WalkingPillow4 was slain by Zombie
+[15:50:40] [Server thread/INFO]: Killed WalkingPillow4
+[15:50:51] [Server thread/INFO]: WalkingPillow4 lost connection: Disconnected
+[15:50:51] [Server thread/INFO]: WalkingPillow4 left the game
